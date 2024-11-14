@@ -1,20 +1,20 @@
-title: Template Hackathon
-nav_title: Template Hack<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> University of Bristol</small>
+title: 2025 Frugal AI Challenge
+nav_title: Frugal AI Challenge<span class="hide-very-narrow">athon</span><br><small><span class="hide-very-narrow">with</span> AI Action Summit</small>
 
-event_date: 2–4 June 2021
-registration_opens_date: 17 March 2021
-registration_closes_date: 16 April 2021
+event_date: February 2025
+registration_opens_date: January 6 2025
+registration_closes_date: January 31 2025
 
-author: University of Bristol Jean Golding Institute
-mailbox_address: ...@bristol.ac.uk
+author: Frugal AI Challenge Organizing Committee
+mailbox_address: frugalaichallenge@gmail.com
 
 description:
-  The Template Hackathon is a X-day hackathon event, organised by the University
-  of Bristol’s Jean Golding Institute. Over the course of the event, teams of
-  researchers will...
+The goal of the Frugal AI Challenge is to encourage both academic and industry actors to keep efficiency in mind when deploying AI models. 
+By tracking both energy consumption and performance for different Aasks, we can incentivize frugality in AI deployment while addressing real-world challenges.
 
-url: "https://jgibristol.github.io/hackathon-template"
-github_repo: jgibristol
+
+url: "frugal-ai-challenge.github.io"
+github_repo: frugal-ai-challenge
 
 theme: minima
 
@@ -33,14 +33,14 @@ header_pages:
 #    now = event is currently happening
 #   over = event has happened
 #  (demo = show all pages to demonstrate the template)
-event_status: demo
+event_status: soon
 
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: demo
+registration_status: soon
 
 # Remove ".html" from default permalinks
 permalink: pretty
