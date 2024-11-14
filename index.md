@@ -64,16 +64,3 @@ We will track both **performance** and **efficiency** on each of the datasets:
 - **Performance** will be measured based on metrics that reflect the real-world constraints of each task
 - **Efficiency** will be measured using [Code Carbon](https://github.com/mlco2/codecarbon), a tool for measuring energy consumption and carbon emissions of code.
   
-## Organizing Committee 💪
-
-**Sasha Luccioni *(Hugging Face)*** Sasha is the Climate Lead at Hugging Face, a global startup in responsible open-source AI, where she spearheads research, consulting and capacity-building to elevate the sustainability of AI systems. She is a founding member of Climate Change AI (CCAI) and a board member of Women in Machine Learning (WiML).
-
-**Theo Alves da Costa *(Data For Good)***  Théo specializes in Data Analytics and Artificial Intelligence (AI) applied to the social and ecological transition. He is the Head of "AI for Sustainability and Climate" unit at the French data-focused firm Ekimetrics and also serves as the co-president of the non-profit Data For Good.
-
-**Juliette Fropier *(French Ministry of Ecological Transition)*** Juliette is part of Ecolab, the innovation lab of the French Ministry of Ecological Transition. Ecolab works for the valorization of public data and innovative answers to the double emergency of ecological transition and digital transformation. As such, Ecolab is responsible for the AI & ecological transition roadmap of the French government, in conjunction with all the ministries involved in the AI national strategy
- 
-**Yacine Jernite (*Hugging Face*)**  Yacine is the Machine Learning and Society Lead at Hugging Face, where he works on ML systems governance at the intersection of regulatory and technical tools. Most recently, he served as the co-organizer and data area chair for the [BigScience workshop](https://bigscience.huggingface.co/) on large language models.
-
-## **Advisory Board** 🪄
-
-Rumman Chowdhury (*Humane Intelligence*), Boris Gamazaychikov (Salesforce), Claire Monteleoni *(INRIA & University of Colorado Boulder),* David Rolnick (*McGill & Mila & Climate Change AI*), Gael Varoquaux (*INRIA*), Karteek Alahari (*INRIA*)
