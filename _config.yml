@@ -13,7 +13,7 @@ description:
   By tracking both energy consumption and performance for different Aasks, we can incentivize frugality in AI deployment while addressing real-world challenges.
 
 
-url: "frugal-ai-challenge.github.io"
+url: "https://frugal-ai-challenge.github.io"
 github_repo: frugal-ai-challenge
 
 theme: minima
