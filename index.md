@@ -1,21 +1,17 @@
 ---
 layout: page
-title: Template Hackathon
+title: Frugal AI Challenge
 menu_title: Home
 menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, in association with the University of Bristol
+# {{ site.event_date }}, co-located with the 2025 AI Action Summit
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
-This is a demo of the template repository for a public-facing hackathon website,
-built by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) at the
-University of Bristol.
+Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia), taking place on February 10 and 11th in Paris, France.
 
-For more information: view the [README](https://github.com/jgibristol/hackathon-template/blob/main/README.md) 
-or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
 </div>
 <!-- END of section to remove -->
 
@@ -31,7 +27,7 @@ or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
                 {% elsif site.registration_status == 'closed' %}
                     <a class="btn disabled">Registration has closed</a>
                 {% elsif site.registration_status == 'soon' %}
-                    <a class="btn disabled">Registration opens soon</a>
+                    <a class="btn disabled">Registration opens in January</a>
                 {% endif %}
             </dd>
         {% endif %}
@@ -46,43 +42,39 @@ or the [GitHub repository](https://github.com/jgibristol/hackathon-template).
 
 {% if site.event_status != "over" %}
 
-Scientists from the University of Bristol are hosting a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+The goal of the **Frugal AI Challenge** is to encourage both academic and industry actors to keep **efficiency** in mind when deploying AI models. 
 
-Researchers can sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams will be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers can be
-from any UK academic institution. [This opportunity]({{ site.baseurl }}{% link registration.md %})
-is open to early career researchers[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"}.
+By tracking both energy consumption and performance for different AI for climate tasks, we can incentivize **frugality** in AI deployment, as well as addressing real-world challenges.
 
-Participation is open to **researchers from any UK academic institution**, and
-we encourage contributions from **early career researchers**[<sup>(?)</sup>][faq]{:title="What do we mean by an Early Career Researcher (ECR)?"},
-including PhDs and Postdocs.
+## Tasks 🥇
 
-## Logistics
+We have chosen three tasks across three modalities, all of which are useful in the global fight against the climate crisis:
 
-The event will take place virtually, using a combination of **video
-conferencing** (Zoom) for meetings and seminars, and **discussion forums**
-(Slack) for ongoing comms. Data holding and analysis will take place on...
+1. **📝 Detecting climate disinformation 📝:** based on text from news articles.
+2. **🔥 Classifying regions at risk of wildfires 🔥:** based on image data gathered via satellite.
+3. **🌳🪓 Detecting illegal deforestation 🌳🪓 :** from bio-acoustic data recorded in the jungle
 
-## Outputs
+*We will announce more details about the tasks and release the datasets soon!*
 
-By the end of the event, we hope to...
+##  Evaluation 🏆
 
-[faq]: {{ site.baseurl }}{% link faq.md %}
+---
 
-{% else %}
+We will track both **performance** and **efficiency** on each of the datasets:
 
-Scientists from the University of Bristol hosted a X-day hackathon on
-{{ site.event_date }}, open to researchers, to...
+- **Performance** will be measured based on metrics that reflect the real-world constraints of each task
+- **Efficiency** will be measured using [Code Carbon](https://github.com/mlco2/codecarbon), a tool for measuring energy consumption and carbon emissions of code.
+  
+## Organizing Committee 💪
 
-Researchers could sign up to [topics ranging from]({{ site.baseurl }}{% link projects.md %})
-... to ..., and more. Teams were be led by senior academics from a range of
-disciplines at the University of Bristol, but participating researchers could be
-from any UK academic institution.
+**Sasha Luccioni *(Hugging Face)*** Sasha is the Climate Lead at Hugging Face, a global startup in responsible open-source AI, where she spearheads research, consulting and capacity-building to elevate the sustainability of AI systems. She is a founding member of Climate Change AI (CCAI) and a board member of Women in Machine Learning (WiML).
 
-The event took place virtually, using a combination of **video conferencing**
-(Zoom) for meetings and seminars, and **discussion forums** (Slack) for ongoing
-comms. Data holding and analysis took place on...
+**Theo Alves da Costa *(Data For Good)***  Théo specializes in Data Analytics and Artificial Intelligence (AI) applied to the social and ecological transition. He is the Head of "AI for Sustainability and Climate" unit at the French data-focused firm Ekimetrics and also serves as the co-president of the non-profit Data For Good.
 
-{% endif %}
+**Juliette Fropier *(French Ministry of Ecological Transition)*** Juliette is part of Ecolab, the innovation lab of the French Ministry of Ecological Transition. Ecolab works for the valorization of public data and innovative answers to the double emergency of ecological transition and digital transformation. As such, Ecolab is responsible for the AI & ecological transition roadmap of the French government, in conjunction with all the ministries involved in the AI national strategy
+ 
+**Yacine Jernite (*Hugging Face*)**  Yacine is the Machine Learning and Society Lead at Hugging Face, where he works on ML systems governance at the intersection of regulatory and technical tools. Most recently, he served as the co-organizer and data area chair for the [BigScience workshop](https://bigscience.huggingface.co/) on large language models.
+
+## **Advisory Board** 🪄
+
+Rumman Chowdhury (*Humane Intelligence*), Boris Gamazaychikov (Salesforce), Claire Monteleoni *(INRIA & University of Colorado Boulder),* David Rolnick (*McGill & Mila & Climate Change AI*), Gael Varoquaux (*INRIA*), Karteek Alahari (*INRIA*)
