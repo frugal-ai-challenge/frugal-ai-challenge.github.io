@@ -6,7 +6,7 @@ menu_icon: globe2
 
 The goal of the Frugal AI Challenge is to encourage both academic and industry actors to keep efficiency in mind when deploying AI models. By tracking both energy consumption and performance for different AI tasks, we can incentivize frugality in AI deployment as well as addressing real-world challenges.
 
-## The organising team
+## The organizing team
 
 {:.lead}
 To contact us about the hackathon, please email our dedicated mailbox:
@@ -58,3 +58,7 @@ To contact us about the hackathon, please email our dedicated mailbox:
         </td>
     </tr>
 </table>
+
+## Advisory Board 🪄
+
+Rumman Chowdhury (*Humane Intelligence*), Boris Gamazaychikov (Salesforce), Claire Monteleoni *(INRIA & University of Colorado Boulder),* David Rolnick (*McGill & Mila & Climate Change AI*), Gael Varoquaux (*INRIA*), Karteek Alahari (*INRIA*)
