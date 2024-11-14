@@ -40,7 +40,6 @@ Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 A
     </dl>
 </div>
 
-{% if site.event_status != "over" %}
 
 The goal of the **Frugal AI Challenge** is to encourage both academic and industry actors to keep **efficiency** in mind when deploying AI models. 
 
