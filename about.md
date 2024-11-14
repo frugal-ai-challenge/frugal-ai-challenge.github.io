@@ -1,13 +1,10 @@
 ---
-title: About the Hackathon
+title: About the Challenge
 menu_title: About
 menu_icon: globe2
 ---
 
-The Template Hackathon is a X-day hackathon event, organised by the University
-of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/). Over
-the course of the event, teams of researchers will... We encourage contributions
-from early career researchers, including PhDs and Postdocs.
+The goal of the Frugal AI Challenge is to encourage both academic and industry actors to keep efficiency in mind when deploying AI models. By tracking both energy consumption and performance for different AI tasks, we can incentivize frugality in AI deployment as well as addressing real-world challenges.
 
 ## The organising team
 
@@ -18,38 +15,46 @@ To contact us about the hackathon, please email our dedicated mailbox:
 <table class="team-list">
     <tr>
         <td>
-            <img alt="James Thomas" src="https://avatars.githubusercontent.com/u/48878399?s=120&v=4">
+            <img alt="Sasha Luccioni" src="https://github.com/user-attachments/assets/d89d9499-cc44-4249-9e32-88cbb66612d3" width="400" >
         </td>
         <td>
-            <strong>James Thomas</strong>
+            <strong>Sasha Luccioni</strong>
             <span class="profile-links">
-                <a title="Profile &amp; contact" href="https://www.bris.ac.uk/contact/person/getDetails?personKey=7PWOgX70s8UndjDH0UkfhsFGi763DB"><i class="bi bi-person-lines-fill"></i></a>
-                <a title="Website" href="https://jatonline.co.uk/"><i class="bi bi-globe2"></i></a>
-                <a title="GitHub" href="https://github.com/jatonline/"><i class="bi bi-github"></i></a>
-                <a title="Twitter" href="https://twitter.com/JGIBristol"><i class="bi bi-twitter"></i></a>
+                <a title="Website" href="https://sashaluccioni.com/"><i class="bi bi-globe2"></i></a>
+                <a title="Twitter" href="https://twitter.com/SashaMTL"><i class="bi bi-twitter"></i></a>
             </span>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            <br>Hugging Face
+            <br> AI and Climate Lead
         </td>
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Theo Alves da Costa" src="https://github.com/user-attachments/assets/574b4b89-eee0-4b49-ab16-0db00e11897f" width="400" >
         </td>
         <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            <strong>Theo Alves da Costa </strong>
+            <br>Data For Good France
+            <br> Co-founder
         </td>
     </tr>
     <tr>
         <td>
-            <img alt="" src="https://avatars.githubusercontent.com/u/0?s=120&v=4">
+            <img alt="Juliette Fropier" src="https://github.com/user-attachments/assets/06bc49da-264c-4f07-bd44-6a8b9679b464" width="400" >
         </td>
         <td>
-            <strong>Another person</strong>
-            <br>University of Bristol
-            <br>Data Science Specialist, Jean Golding Institute
+            <strong>Juliette Fropier</strong>
+            <br>French Ministry of Ecological Transition
+            <br> AI Lead 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="Yacine Jernite" src="https://github.com/user-attachments/assets/f80755bf-d882-49a0-9ce9-29e8f8954652" width="400" >
+        </td>
+        <td>
+            <strong>Yacine Jernite</strong>
+            <br> Hugging Face
+            <br> AI and Society Lead
         </td>
     </tr>
 </table>
