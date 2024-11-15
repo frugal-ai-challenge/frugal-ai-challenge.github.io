@@ -33,6 +33,10 @@ To contact us about the hackathon, please email our dedicated mailbox:
         </td>
         <td>
             <strong>Theo Alves da Costa </strong>
+            <span class="profile-links">
+                <a title="LinkedIn" href="https://www.linkedin.com/in/th%C3%A9o-alves-da-costa-09397a82/"><i class="bi bi-globe2"></i></a>
+                <a title="Twitter" href="https://twitter.com/theolvsdc"><i class="bi bi-twitter"></i></a>
+            </span>
             <br>Data For Good France
             <br> Co-founder
         </td>
@@ -53,6 +57,10 @@ To contact us about the hackathon, please email our dedicated mailbox:
         </td>
         <td>
             <strong>Yacine Jernite</strong>
+            <span class="profile-links">
+                <a title="Website" href="https://yjernite.github.io/"><i class="bi bi-globe2"></i></a>
+                <a title="Twitter" href="https://x.com/YJernite"><i class="bi bi-twitter"></i></a>
+            </span>
             <br> Hugging Face
             <br> AI and Society Lead
         </td>
@@ -60,5 +68,9 @@ To contact us about the hackathon, please email our dedicated mailbox:
 </table>
 
 ## Advisory Board 🪄
-
-Rumman Chowdhury (*Humane Intelligence*), Boris Gamazaychikov (Salesforce), Claire Monteleoni *(INRIA & University of Colorado Boulder),* David Rolnick (*McGill & Mila & Climate Change AI*), Gael Varoquaux (*INRIA*), Karteek Alahari (*INRIA*)
+Karteek Alahari (*INRIA*)
+Rumman Chowdhury (*Humane Intelligence*)
+Boris Gamazaychikov (Salesforce)
+Claire Monteleoni *(INRIA & University of Colorado Boulder)
+David Rolnick (*McGill & Mila & Climate Change AI*)
+Gael Varoquaux (*INRIA*)
