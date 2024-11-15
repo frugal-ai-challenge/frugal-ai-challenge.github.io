@@ -6,7 +6,7 @@ menu_icon: house-door
 ---
 
 {:.secondary}
-# {{ site.event_date }}, co-located with the 2025 AI Action Summit
+# {{ site.event_date }}, virtual and in-person
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
