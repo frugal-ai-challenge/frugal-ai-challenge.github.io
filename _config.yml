@@ -22,11 +22,10 @@ theme: minima
 # and registration_status flags below
 header_pages:
   - registration.md
-  - agenda.md
-  - projects.md
-  - videos-slides.md
-  - resources.md
   - about.md
+  - agenda.md
+  - resources.md
+
 
 # Event status
 #   soon = event is yet to happen
