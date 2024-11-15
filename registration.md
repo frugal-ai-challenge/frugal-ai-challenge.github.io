@@ -7,12 +7,12 @@ event_status:
 ---
 
 {:.lead}
-Participation is open to researchers or practitioners from any institution,
-and we encourage contributions from early career
-researchers. {% if site.registration_status
+{% if site.registration_status
 == "soon" or site.registration_status == "demo" %}Registration opens on
-{{ site.registration_opens_date }}.{% endif %} The closing date for applications
+{{ site.registration_opens_date }}{% endif %} and will close on
 is {{ site.registration_closes_date }}.
+
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bPb75-zKF7aHq2h--lF0iSoITIA/viewform?usp=sf_link) to receive updates and news about the Challenge.
 
 <div class="aside" markdown="1">
 
