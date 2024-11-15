@@ -21,10 +21,10 @@ theme: minima
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
 header_pages:
-  - registration.md
   - about.md
   - tasks.md
   - resources.md
+  - registration.md
 
 
 # Event status
