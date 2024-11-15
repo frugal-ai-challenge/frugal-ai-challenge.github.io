@@ -1,8 +1,8 @@
 ---
 layout: project_list
 title: Tasks
-menu_title: Projects
-menu_icon: briefcase
+menu_title: Tasks
+menu_icon: rocket
 ---
 
 ## Tasks 🥇
