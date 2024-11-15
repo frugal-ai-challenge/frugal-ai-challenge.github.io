@@ -8,10 +8,11 @@ event_status:
 
 {:.lead}
 {% if site.registration_status
-== "soon" or site.registration_status == "demo" %}Registration opens on
+== "soon" or site.registration_status == "demo" %} Registration opens on
 {{ site.registration_opens_date }}{% endif %} and will close on
-is {{ site.registration_closes_date }}.
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bPb75-zKF7aHq2h--lF0iSoITIA/viewform?usp=sf_link) to receive updates and news about the Challenge.
+is {{ site.registration_closes_date }}. 
+
+## Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bPb75-zKF7aHq2h--lF0iSoITIA/viewform?usp=sf_link) to receive updates and news about the Challenge.
 
 <div class="aside" markdown="1">
 
@@ -32,8 +33,6 @@ winners will be announced at the in-person event in {{ site.event_date }}.
 The datasets for each task will be shared in early December, and we will provide 
 example evaluation Jupyter notebooks, as well as technical support and guidance.
 
-The closing date for the applications is {{ site.registration_closes_date }}. If
-you have any queries, or have any difficulties completing the registration form,
-please email our dedicated mailbox: <{{ site.mailbox_address }}>.
+If you have any questions, please email our dedicated mailbox: <{{ site.mailbox_address }}>.
 
 [faq]: {{ site.baseurl }}{% link faq.md %}
