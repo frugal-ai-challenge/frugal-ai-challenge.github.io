@@ -11,7 +11,7 @@ menu_icon: house-door
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
 Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia), taking place on February 10 and 11th in Paris, France.
-
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bPb75-zKF7aHq2h--lF0iSoITIA/viewform?usp=sf_link) to receive updates and news about the Challenge.
 </div>
 <!-- END of section to remove -->
 
@@ -39,7 +39,6 @@ Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 A
         <dd>Hackathon date</dd>
     </dl>
 </div>
-
 
 The goal of the **Frugal AI Challenge** is to encourage both academic and industry actors to keep **efficiency** in mind when deploying AI models. 
 
