@@ -1,5 +1,4 @@
 ---
-layout: project_list
 title: Tasks
 menu_title: Tasks
 menu_icon: journal-code
