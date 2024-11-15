@@ -68,9 +68,9 @@ To contact us about the hackathon, please email our dedicated mailbox:
 </table>
 
 ## Advisory Board 🪄
-Karteek Alahari (*INRIA*)
-Rumman Chowdhury (*Humane Intelligence*)
-Boris Gamazaychikov (Salesforce)
-Claire Monteleoni *(INRIA & University of Colorado Boulder)
-David Rolnick (*McGill & Mila & Climate Change AI*)
-Gael Varoquaux (*INRIA*)
+Karteek Alahari (*INRIA*) <br>
+Rumman Chowdhury (*Humane Intelligence*) <br>
+Boris Gamazaychikov (Salesforce) <br>
+Claire Monteleoni *(INRIA & University of Colorado Boulder) <br>
+David Rolnick (*McGill & Mila & Climate Change AI*) <br>
+Gael Varoquaux (*INRIA*) <br>
