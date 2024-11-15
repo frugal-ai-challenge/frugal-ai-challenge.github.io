@@ -1,1 +1,2 @@
-# Frugal AI Hackathon 
+# Frugal AI Challenge 
+
