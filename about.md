@@ -4,7 +4,7 @@ menu_title: About
 menu_icon: globe2
 ---
 
-The goal of the Frugal AI Challenge is to encourage both academic and industry actors to keep efficiency in mind when deploying AI models. By tracking both energy consumption and performance for different AI tasks, we can incentivize frugality in AI deployment as well as addressing real-world challenges.
+The goal of the Frugal AI Challenge is to encourage both academic and industry actors to keep efficiency in mind when deploying AI models. By tracking both energy consumption and performance for different AI tasks, we can incentivize frugality in AI deployment while also addressing real-world challenges.
 
 ## The organizing team
 
@@ -15,7 +15,7 @@ To contact us about the hackathon, please email our dedicated mailbox:
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Sasha Luccioni" src="https://github.com/user-attachments/assets/d89d9499-cc44-4249-9e32-88cbb66612d3" width="400" >
+            <img alt="Sasha Luccioni" src="https://github.com/user-attachments/assets/70958e19-33ad-42e7-93b4-36ad1744a5b0" width="400" >
         </td>
         <td>
             <strong>Sasha Luccioni</strong>
