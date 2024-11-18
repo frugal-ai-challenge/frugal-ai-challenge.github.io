@@ -20,17 +20,17 @@ The datasets for each task will be hosted on the [Hugging Face Hub](https://hugg
 
 The task data was provided by our amazing partners, listed below:
 
-### [Skeptical Science](https://skepticalscience.com/) 
-
-<img src="https://github.com/user-attachments/assets/c2e89317-99b7-4a21-82f6-60f986e8e29a"  height="150"> 
-
-### [Pyronear](https://pyronear.org/en/) 
-
-<img src="https://github.com/user-attachments/assets/d5ff7f2d-1e0a-47a4-bd4b-c9b07cfda9f0"  height="150"> 
-
-### [Rainforest Connection](https://rfcx.org/) 
-
-<img src="https://github.com/user-attachments/assets/39a6267f-2716-44be-877d-a24bc0e5a33e"  height="250"> 
-
+<table  style="width:100%">
+<tr>
+<th style="width:33%"><a href="https://skepticalscience.com/">Skeptical Science</a> </th>
+<th style="width:33%"><a href="https://pyronear.org">Pyronear</a></th>
+<th style="width:33%"><a href="https://rfcx.org/"> Rainforest Connection </a> </th>
+</tr>
+<tr>
+<th style="width:33%"><img src="https://github.com/user-attachments/assets/c2e89317-99b7-4a21-82f6-60f986e8e29a" > </th>
+<th style="width:33%"><img src="https://github.com/user-attachments/assets/d5ff7f2d-1e0a-47a4-bd4b-c9b07cfda9f0" > </th>
+<th style="width:33%"><img src="https://github.com/user-attachments/assets/a6edc01a-600b-4935-820a-9e7af425898e" >  </th>
+</tr>
+</table>
 
 
