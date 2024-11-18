@@ -30,6 +30,7 @@ The task data was provided by our amazing partners, listed below:
 
 ### [Rainforest Connection](https://rfcx.org/) 
 
-<img src="https://github.com/user-attachments/assets/3e45ccbe-6f3d-4213-9994-6abd7a5a371a"  height="150"> 
+<img src="https://github.com/user-attachments/assets/39a6267f-2716-44be-877d-a24bc0e5a33e"  height="250"> 
+
 
 
