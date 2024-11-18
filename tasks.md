@@ -6,7 +6,7 @@ menu_icon: journal-code
 
 ## Tasks 🥇
 
-We have chosen three tasks across three modalities, all of which are useful in the global fight against the climate crisis:
+We chose three tasks across three modalities, all of which are useful in the global fight against the climate crisis:
 
 1. **📝 Detecting climate disinformation 📝:** based on text from news articles.
 2. **🔥 Classifying regions at risk of wildfires 🔥:** based on image data gathered via satellite.
