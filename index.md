@@ -10,7 +10,7 @@ menu_icon: house-door
 
 <!-- REMOVE THIS SECTION when you use this template -->
 <div class="lead" markdown="1">
-Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia), taking place on February 10 and 11th in Paris, France.
+Welcome to the homepage for the Frugal AI Challenge, co-located with the [2025 AI Action Summit](https://www.elysee.fr/en/sommet-pour-l-action-sur-l-ia), taking place on February 10-11 in Paris, France.
 
 Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bPb75-zKF7aHq2h--lF0iSoITIA/viewform?usp=sf_link) to receive updates and news about the Challenge.
 </div>
@@ -43,7 +43,7 @@ Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdwrq9Rhe7fcFL2_UQrIP3bP
 
 The goal of the **Frugal AI Challenge** is to encourage both academic and industry actors to keep **efficiency** in mind when deploying AI models. 
 
-By tracking both energy consumption and performance for different AI for climate tasks, we can incentivize **frugality** in AI deployment, as well as addressing real-world challenges.
+By tracking both energy consumption and performance for different AI for climate tasks, we can incentivize **frugality** in AI deployment while also addressing real-world challenges.
 
 We have chosen three tasks across three modalities, all of which are useful in the global fight against the climate crisis: detecting climate disinformation, classifying regions at risk of wildfires, and detecting illegal deforestation. We will evaluate both **performance** and **efficiency** on each of the datasets, based on the real-world constraints of each task and the energy used.
 
