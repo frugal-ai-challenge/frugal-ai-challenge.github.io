@@ -10,7 +10,7 @@ event_status:
 {% if site.registration_status
 == "soon" or site.registration_status == "demo" %} Registration opens on
 {{ site.registration_opens_date }}{% endif %} and will close on
-is {{ site.registration_closes_date }}. 
+{{ site.registration_closes_date }}. 
 
 ### Sign up [here](https://framaforms.org/2025-frugal-ai-summit-1732038008) to receive updates and news about the Challenge.
 
