@@ -4,15 +4,13 @@ menu_title: Resources
 menu_icon: journal-code
 ---
 
-## Ressources 
-
 ### Reporting and quantifying
 
 **Code Carbon** - [Python package](https://github.com/mlco2/codecarbon) \
 A python package estimating the hardware energy consumption (CPU + GPU + RAM) of your program. 
 
 **Power Hungry Processing: Watts Driving the Cost of AI Deployment?** – [Luccioni et al., 2023](https://arxiv.org/abs/2311.16863) \
-A broad study of the AI models’ power consumption at inference stage. Experiments are run with Code Carbon and applied to both Natural Language Processing and Computer Vision tasks.
+A broad study of AI models’ power consumption at inference stage. Experiments are run with Code Carbon and applied to both Natural Language Processing and Computer Vision tasks.
 
 **The Price of Prompting: Profiling Energy Use in Large Language Models Inference** - [Huson et al., 2024](https://arxiv.org/abs/2407.16893) \
 A study focusing on LLM inference energy needs. Provides an open-source tool for energy monitoring and additional insights into energy profiles during LLM inference.
