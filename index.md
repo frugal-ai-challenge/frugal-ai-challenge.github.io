@@ -47,4 +47,4 @@ By tracking both energy consumption and performance for different AI for climate
 
 We have chosen three tasks across three modalities, all of which are useful in the global fight against the climate crisis: detecting climate disinformation, classifying regions at risk of wildfires, and detecting illegal deforestation. We will evaluate both **performance** and **efficiency** on each of the datasets, based on the real-world constraints of each task and the energy used.
 
-*We will announce more details about the tasks and release the datasets soon!*
+The datasets for each task are hosted on our [Hugging Face organization page](https://huggingface.co/collections/frugal-ai-challenge/frugal-ai-challenge-tasks-673dd5ee724c6659a5b42443) - you can download them and start training models! 
