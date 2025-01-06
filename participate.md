@@ -1,7 +1,7 @@
 ---
 title: Participate
 menu_title: Participate
-menu_icon: join
+menu_icon: briefcase
 ---
 
 In this page you will find all the instructions to participate in the challenge.
