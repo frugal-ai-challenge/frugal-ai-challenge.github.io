@@ -23,6 +23,7 @@ theme: minima
 header_pages:
   - about.md
   - tasks.md
+  - participate.md
   - resources.md
   - registration.md
 
