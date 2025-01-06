@@ -32,6 +32,11 @@ So to submit your results, you will need to
 
 Don't worry, it's all planned with pre-built templates directly on Hugging Face Spaces.
 
+### Create your account on HuggingFace
+If you don't have one yet, you can create one [here](https://huggingface.co/join).
+This account is free and will allow you to deploy your model as a Hugging Face Space.
+You can participate as a team (with a Hugging Face organization) or as an individual.
+
                         
 ### Prepare your model submission on a API as a Hugging Face Space
 1. Duplicate the template of the submission API by duplicating this space on your own Hugging Face account [https://huggingface.co/spaces/frugal-ai-challenge/submission-template](https://huggingface.co/spaces/frugal-ai-challenge/submission-template)
