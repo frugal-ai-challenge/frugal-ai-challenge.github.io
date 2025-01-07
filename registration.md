@@ -7,21 +7,10 @@ event_status:
 ---
 
 {:.lead}
-{% if site.registration_status
-== "soon" or site.registration_status == "demo" %} Registration opens on
-{{ site.registration_opens_date }}{% endif %} and will close on
-is {{ site.registration_closes_date }}. 
 
 ### Sign up [here](https://framaforms.org/2025-frugal-ai-summit-1732038008) to receive updates and news about the Challenge.
 
 <div class="aside" markdown="1">
-
-{% if site.registration_status == "soon" or site.registration_status == "demo" %}
-  <a class="btn disabled">Registration opens soon</a>
-{% endif %}
-{% if site.registration_status == "closed" or site.registration_status == "open" %}
-  <a class="btn disabled">Registration has closed</a>
-{% endif %}
 
 Follow the instructions on the [submission page](https://huggingface.co/spaces/frugal-ai-challenge/submission-portal) to submit a model for any of the challenge's 3 tasks. 
 
