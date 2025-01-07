@@ -8,9 +8,7 @@ event_status:
 
 {:.lead}
 
-### Sign up [here](https://framaforms.org/2025-frugal-ai-summit-1732038008) to receive updates and news about the Challenge.
-
-<div class="aside" markdown="1">
+### Submissions to the Challenge are now open!!
 
 Follow the instructions on the [submission page](https://huggingface.co/spaces/frugal-ai-challenge/submission-portal) to submit a model for any of the challenge's 3 tasks. 
 
