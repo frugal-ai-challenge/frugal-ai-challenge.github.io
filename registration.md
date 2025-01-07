@@ -19,19 +19,15 @@ is {{ site.registration_closes_date }}.
 {% if site.registration_status == "soon" or site.registration_status == "demo" %}
   <a class="btn disabled">Registration opens soon</a>
 {% endif %}
-{% if site.registration_status == "open" or site.registration_status == "demo" %}
-  [Complete the application form](https://forms.office.com/...){:.btn target="_blank"}
-{% endif %}
-{% if site.registration_status == "closed" or site.registration_status == "demo" %}
+{% if site.registration_status == "closed" or site.registration_status == "open" %}
   <a class="btn disabled">Registration has closed</a>
 {% endif %}
+
+Follow the instructions on the [submission page](https://huggingface.co/spaces/frugal-ai-challenge/submission-portal) to submit a model for any of the challenge's 3 tasks. 
 
 The closing date for applications is {{ site.registration_closes_date }} and 
 winners will be announced at the in-person event in {{ site.event_date }}.
 </div>
-
-The datasets for each task will be shared in early December, and we will provide 
-example evaluation Jupyter notebooks, as well as technical support and guidance.
 
 If you have any questions, please email our dedicated mailbox: <{{ site.mailbox_address }}>.
 
