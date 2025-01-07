@@ -33,14 +33,14 @@ header_pages:
 #    now = event is currently happening
 #   over = event has happened
 #  (demo = show all pages to demonstrate the template)
-event_status: soon
+event_status: now
 
 # Open and close the registration form
 #   soon = Registration has not yet opened
 #   open = Registration form is open
 # closed = Registration form is now closed
 #  (demo = show all pages to demonstrate the template)
-registration_status: soon
+
 
 # Remove ".html" from default permalinks
 permalink: pretty
