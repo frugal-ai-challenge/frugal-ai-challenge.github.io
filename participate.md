@@ -62,7 +62,7 @@ For example for "frugal-ai-challenge/submission-template" the embed link [https:
 You need to add your personal token after having accessed the gated dataset for the audio task. 
 The token need to be put in the .env variables as `HF_TOKEN` to validate the access to the dataset.
 
-### Submit your model to the leaderboard
+### (Optional) Submit your model to the public leaderboard
 You can now go to the submission portal here [https://huggingface.co/spaces/frugal-ai-challenge/submission-portal](https://huggingface.co/spaces/frugal-ai-challenge/submission-portal)
 And as soon as your API is deployed : 
 1. Select the task you want to submit your model to
@@ -74,3 +74,8 @@ And as soon as your API is deployed :
     - Text - https://huggingface.co/datasets/frugal-ai-challenge/public-leaderboard-text
     - Image - https://huggingface.co/datasets/frugal-ai-challenge/public-leaderboard-image
     - Audio - https://huggingface.co/datasets/frugal-ai-challenge/public-leaderboard-audio
+
+This step is optional because the results on the public leaderboard will not be used for the final evaluation and are simply informative to position yourself against other participants and improve accordingly. To be eligible for the final evaluation, you need to submit your results to the final evaluation form.
+
+### Submit your model to the final evaluation
+You can now go to the final evaluation form here [https://framaforms.org/2025-frugal-ai-challenge-submission-form-1736883260-0](https://framaforms.org/2025-frugal-ai-challenge-submission-form-1736883260-0)
